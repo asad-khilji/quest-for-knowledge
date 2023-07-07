@@ -3,9 +3,6 @@ const createNav = () => {
 
     nav.innerHTML = `
     <div class="topnav" id="myTopnav">
-    <nav>
-      <a href="index.html">Islam</a>
-    </nav>
      
       <div class="dropdown">
         <button class="dropbtn">Quran</button>
