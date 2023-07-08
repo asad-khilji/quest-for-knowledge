@@ -3,6 +3,8 @@ const createNav = () => {
 
     nav.innerHTML = `
     <div class="topnav" id="myTopnav">
+
+    <nav><a href="index.html">Home</a></nav>
      
       <div class="dropdown">
         <button class="dropbtn">Quran</button>
