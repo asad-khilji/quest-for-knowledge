@@ -10,6 +10,7 @@ const createNav = () => {
         <button class="dropbtn">Quran</button>
         <div class="dropdown-content">
           <a href="surah-al-fatihah.html">Surah Al Fatihah</a>
+          <a href="divine-speech.html">Divine Speech</a>
         </div>
       </div> 
 
